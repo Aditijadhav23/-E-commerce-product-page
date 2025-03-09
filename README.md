@@ -31,8 +31,19 @@ user-friendly and visually attractive, ensuring a seamless shopping experience f
    - A quick view popup for product details.
    - An interactive product gallery or carousel for multiple images.
 ## Technologies to Use:
- #### HTML: 
+ #### HTML:
  To create the structure of the image slider.
  #### CSS: 
 To style the slider and add animations and transitions.
-## Demo:-
+ - # Demo:-
+ ![image](https://github.com/user-attachments/assets/1a9e2c76-cd6f-492f-bd7b-8b9b1e4e0ade)
+ ![image](https://github.com/user-attachments/assets/ccf6a48a-a9d4-4d49-9db5-eaa18081e8aa)
+ ![image](https://github.com/user-attachments/assets/a8c7c0c6-d7e1-4f72-a1cb-8c579e3ae0d3)
+ ![image](https://github.com/user-attachments/assets/82902315-fab2-4c83-8d60-8a8ab75d27b8)
+ ![image](https://github.com/user-attachments/assets/b3098234-6450-4ec6-8bb7-e40f06a5f4b9)
+ ![image](https://github.com/user-attachments/assets/5088d1e0-296a-4342-95e8-59f4ff2191fa)
+ ![image](https://github.com/user-attachments/assets/a575d3fb-d6ec-4d07-9d00-6c43c76bd518)
+ ![image](https://github.com/user-attachments/assets/0c40cb04-20ef-4c24-abd3-c5e6548afa21)
+
+
+
